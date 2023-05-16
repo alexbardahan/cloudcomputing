@@ -9,6 +9,7 @@ Android: https://play.google.com/store/apps/details?id=ro.fastapp.cafe_noir
 iOS: https://apps.apple.com/us/app/cafe-noir/id1592372469
 
 1. Introducere
+
 Aplicatia Cafe Noir a fost facuta de mine personal pentru parintii mei care detin un restaurant in Orasul Braila numit "Cafe Noir" si este folosita si in prezent intr-un mod real pentru comenzi.
 
 Cafe Noir este o aplicație mobilă dezvoltată cross-platform, pentru Android și iOS, ce are ca scop creșterea vânzărilor restaurantului în ceea ce privește livrările la domiciliu, dar și îmbunătățirea experienței utilizatorilor prin oferirea unor funcționalități noi, moderne. Aplicația are ca rol principal fidelizarea clientului și transformarea acestuia într-un client recurent, care comanda în fiecare zi. Alte beneficii sunt creșterea vizibilității brand-ului și diferențierea față de concurență. Astfel, utilizatorii, reprezentați de clienții restaurantului, vor putea beneficia de funcționalități precum crearea unui cont de client și autentificarea în aplicație, vizualizarea produselor restaurantului, adăugarea produselor în coș, efectuarea unei comenzi la domiciliu sau ridicarea personală a produselor din restaurant, alegerea dintre plata cash sau cu cardul prin aplicație, efectuarea de rezervări direct din aplicație pentru data și ora selectate, vizualizarea ofertelor și promoțiilor susținute de restaurant. Beneficiile utilizării acestei aplicații includ fidelizarea crescută a clienților, posibilitatea de a comanda preparatele dorite într-un timp scurt, eliminarea erorilor umane prezente în cadrul comenzilor telefonice, posibilitatea de a da notificări push clienților, creșterea vizibilității și a notorietății brand-ului, centralizarea comenzilor și simplificarea procedeelor interne, colectarea datelor în scopul determinării tendințelor clienților și adaptarea meniului în funcție de acestea.
@@ -87,18 +88,32 @@ Autentificare:
   }
 
 5. Capturile de ecran
+
 ![poza_1](http://deveatery.com/cafe-noir-cloud/1_photo.png)
+![poza_2](http://deveatery.com/cafe-noir-cloud/2_photo.png)
+![poza_3](http://deveatery.com/cafe-noir-cloud/3_photo.png)
+![poza_4](http://deveatery.com/cafe-noir-cloud/4_photo.png)
+![poza_5](http://deveatery.com/cafe-noir-cloud/5_photo.png)
+![poza_6](http://deveatery.com/cafe-noir-cloud/6_photo.png)
 
 6. Referinte
 
 [1] „Online Food Delivery – Timeline” https://www.verdictfoodservice.com/comment/online-food-delivery-timeline/
+
 [2] „History of food delivery and how its changed” https://www.thistle.co/learn/thistle-thoughts/history-of-food-delivery-and-how-its-changed
+
 [3] „Online Food Ordering System For Restaurants” https://www.gloriafood.com/online-food-ordering-system-for-restaurants
+
 [4] „Add Firebase to your Flutter app” https://firebase.google.com/docs/flutter/setup?platform=android
+
 [5] „Flutter documentation” https://docs.flutter.dev
+
 [6] „A Complete Guide on Restaurant App Development: All You Need to Know” https://www.fatbit.com/fab/restaurant-app-development/
+
 [7] „Online payments” https://stripe.com/docs/payments/online-payments
+
 [8] „Create Your App With Flutter In 5 Days
 ” https://levelup.gitconnected.com/create-your-app-with-flutter-in-5-days-412ee41de22a
+
 [9] „How to Use the Provider Pattern in Flutter
 ” https://www.freecodecamp.org/news/provider-pattern-in-flutter/

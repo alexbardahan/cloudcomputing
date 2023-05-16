@@ -2,7 +2,7 @@ Aplicatie mobila Cafe Noir
 Bardahan Alexandru-Mihai
 Grupa 1119
 
-Link Video prezentare proiect:
+Link Video prezentare proiect: https://youtu.be/9QODFuu_fcU
 
 Link publicare:
 Android: https://play.google.com/store/apps/details?id=ro.fastapp.cafe_noir

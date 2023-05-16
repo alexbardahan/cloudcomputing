@@ -87,12 +87,7 @@ Autentificare:
   }
 
 5. Capturile de ecran
-![poza_1](./capturi_ecran_aplicatie/Iphone 6.5/1_photo.png)
-![poza_2](./capturi_ecran_aplicatie/Iphone 6.5/2_photo.png)
-![poza_3](./capturi_ecran_aplicatie/Iphone 6.5/3_photo.png)
-![poza_4](./capturi_ecran_aplicatie/Iphone 6.5/4_photo.png)
-![poza_5](./capturi_ecran_aplicatie/Iphone 6.5/5_photo.png)
-![poza_6](./capturi_ecran_aplicatie/Iphone 6.5/6_photo.png)
+![poza_1](http://deveatery.com/cafe-noir-cloud/1_photo.png)
 
 6. Referinte
 

@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "145729284583",
+    "firebase_url": "https://cafenoir-737f5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cafenoir-737f5",
+    "storage_bucket": "cafenoir-737f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145729284583:android:0bc7789e1b2b68bf943542",
+        "android_client_info": {
+          "package_name": "com.example.cafe_noir_orders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145729284583-i6i208d5jm1ms7a3dn7p5udsq56ck2pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhgGybFuDajMEvNLqcUMPGUMlQdo5K1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145729284583-i6i208d5jm1ms7a3dn7p5udsq56ck2pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145729284583-eqggji1me0bnju5djctkehmqljuldo5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ro.fastapp.cafeNoir"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145729284583:android:fedea6d2263456b9943542",
+        "android_client_info": {
+          "package_name": "ro.fastapp.cafe_noir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145729284583-25amp6bm2v7nf9ku8fotoc4j49ee3jlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ro.fastapp.cafe_noir",
+            "certificate_hash": "c864bc70f448bb60d1d5e8e568fd09eacdd3a0a1"
+          }
+        },
+        {
+          "client_id": "145729284583-6r75q47b8mpcnr6g29tk26h7bhc6kneb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ro.fastapp.cafe_noir",
+            "certificate_hash": "6a450c0a422ade9d18cc63eede3669874ace9a4f"
+          }
+        },
+        {
+          "client_id": "145729284583-n7ei7uv2hlo4n7c0c9f06qmf31pgck4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ro.fastapp.cafe_noir",
+            "certificate_hash": "95716637e5826b5d5729856e2e11aea55afdccea"
+          }
+        },
+        {
+          "client_id": "145729284583-i6i208d5jm1ms7a3dn7p5udsq56ck2pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhgGybFuDajMEvNLqcUMPGUMlQdo5K1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145729284583-i6i208d5jm1ms7a3dn7p5udsq56ck2pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145729284583-eqggji1me0bnju5djctkehmqljuldo5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ro.fastapp.cafeNoir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
